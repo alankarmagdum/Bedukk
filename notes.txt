@@ -1,0 +1,2 @@
+rel - tell the browser which type of rel
+favicon -  extension is .ico  32px * 32px 
