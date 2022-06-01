@@ -1,0 +1,5 @@
+1. git clone repozetry link in gitbash.
+2. git status - for check status.
+3.  git add Alankar.txt - add it into local repozitry
+4. git commit -m "note.txt file added" - commit means permantly added 
+5 git push - file send into the github.
